@@ -1,0 +1,16 @@
+{
+  "success": true,
+  "data": {
+    "subject": {
+      "sub1": "Special Session",
+      "sub2": "Chemistry",
+      "sub3": "Physics",
+      "sub4": "Biology",
+      "sub5": "Physical Chemistry",
+      "sub6": "Botany",
+      "sub7": "Inorganic Chemistry",
+      "sub8": "Zoology",
+      "sub9": "Organic Chemistry"
+    }
+  }
+}
