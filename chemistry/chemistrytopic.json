@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "data": {
+    "subject": {
+      "topic1":{
+        "name":"ISOMERISM",
+        "url":"chemistry/ISOMERISM.html"
+      },
+      "topic2":{
+        "name":"General Organic Chemistry",
+        "url":"Chemistry/GOC.html"
+      },
+      "topic3":{
+        "name":"Physics",
+        "url":"Chemistry/SolidState.html"
+      }
+    }
+  }
+}
