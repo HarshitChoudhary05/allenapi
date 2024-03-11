@@ -29,6 +29,14 @@
       "topic7": {
         "name": "Balancing NEET exam with 12th board exams",
         "url": "https://allenplus.allen.ac.in/api_v4.1/v3/src/controller/videoplay.php?videocode=872480200&videohash=602018f043"
+      },
+      "topic8": {
+        "name": "Ranneeti Session",
+        "url": "https://api.zoom.us/rec/share/xZ9EAsnu0mt-g87zj2coLXQ0jtJu5aNneTa_hYNIa9itnigoiciTJl8L78VBe2B7.oh_6a3uQdVzGxSPC"
+      },
+      "topic9": {
+        "name": "Lakshya Session",
+        "url": "https://api.zoom.us/rec/share/lnrNf31XHGx8AJ0O2bi0ZHdecLSb7tQ0P4c4m_dIgHjKDHcanG1sFTbOI7KoLlFF.XJJdxg5GBqUhG6-R"
       }
     }
   }
