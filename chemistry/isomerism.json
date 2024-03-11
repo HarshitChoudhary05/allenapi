@@ -1,0 +1,43 @@
+{
+  "success": true,
+  "data": {
+    "isomerism": {
+      "topic1": {
+        "name": "ISOMERISM-01",
+        "url": "https://api.zoom.us/rec/share/lD0bkriRLuCVCFlkVT0DFhMkcrz6LyQt4-9vdazBI49RrN-leNh--8IlI6u_VMS6.LvPu7WCzUP4FGoGd"
+      },
+      "topic2": {
+        "name": "ISOMERISM-02",
+        "url": "https://allenplus.allen.ac.in/api_v4.1/v3/src/controller/videoplay.php?videocode=850120303&videohash=1ad7f9f3db"
+      },
+      "topic3": {
+        "name": "ISOMERISM-03",
+        "url": "https://allenplus.allen.ac.in/api_v4.1/v3/src/controller/videoplay.php?videocode=872480200&videohash=602018f043"
+      },
+      "topic4": {
+        "name": "ISOMERISM-04",
+        "url": "https://allenplus.allen.ac.in/api_v4.1/v3/src/controller/videoplay.php?videocode=872480200&videohash=602018f043"
+      },
+      "topic5": {
+        "name": "ISOMERISM-05",
+        "url": "https://allenplus.allen.ac.in/api_v4.1/v3/src/controller/videoplay.php?videocode=872480200&videohash=602018f043"
+      },
+      "topic6": {
+        "name": "ISOMERISM-06",
+        "url": "https://allenplus.allen.ac.in/api_v4.1/v3/src/controller/videoplay.php?videocode=872480200&videohash=602018f043"
+      },
+      "topic7": {
+        "name": "ISOMERISM-07",
+        "url": "https://allenplus.allen.ac.in/api_v4.1/v3/src/controller/videoplay.php?videocode=872480200&videohash=602018f043"
+      },
+      "topic8": {
+        "name": "ISOMERISM-08",
+        "url": "https://api.zoom.us/rec/share/xZ9EAsnu0mt-g87zj2coLXQ0jtJu5aNneTa_hYNIa9itnigoiciTJl8L78VBe2B7.oh_6a3uQdVzGxSPC"
+      },
+      "topic9": {
+        "name": "ISOMERISM-09",
+        "url": "https://api.zoom.us/rec/share/lnrNf31XHGx8AJ0O2bi0ZHdecLSb7tQ0P4c4m_dIgHjKDHcanG1sFTbOI7KoLlFF.XJJdxg5GBqUhG6-R"
+      }
+    }
+  }
+}
