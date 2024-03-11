@@ -12,7 +12,9 @@
       },
       "topic3":{
         "name":"NEET 2024 Physics Updated Syllabus",
-        "url":"https://allenplus.allen.ac.in/api_v4.1/v3/src/controller/videoplay.php?videocode=872480200&videohash=602018f043",
+        "url":"https://allenplus.allen.ac.in/api_v4.1/v3/src/controller/videoplay.php?videocode=872480200&videohash=602018f043"
+
+      },
       
       "topic4":{
         "name":"NEET 2024 Chemistry Updated Syllabus",
@@ -20,4 +22,4 @@
       }
     }
   }
-}}
+}
