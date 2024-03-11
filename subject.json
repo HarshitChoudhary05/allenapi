@@ -2,15 +2,43 @@
   "success": true,
   "data": {
     "subject": {
-      "sub1": "Special Session",
-      "sub2": "Chemistry",
-      "sub3": "Physics",
-      "sub4": "Biology",
-      "sub5": "Physical Chemistry",
-      "sub6": "Botany",
-      "sub7": "Inorganic Chemistry",
-      "sub8": "Zoology",
-      "sub9": "Organic Chemistry"
+      "sub1":{
+        "name":"Special Session",
+        "url":"SpecialSession.html"
+      },
+      "sub2":{
+        "name":"Chemistry",
+        "url":"Chemistry.html"
+      },
+      "sub3":{
+        "name":"Physics",
+        "url":"Physics.html"
+      },
+      "sub4":{
+        "name":"Biology",
+        "url":"Biology.html"
+      },
+       "sub5":{
+        "name":"Physical Chemistry",
+        "url":"PhysicalChemistry.html"
+      },
+       "sub6":{
+        "name":"Botany",
+        "url":"Botany.html"
+      },
+       "sub7":{
+        "name":"Inorganic Chemistry",
+        "url":"InorganicChemistry.html"
+      },
+       "sub8":{
+        "name":"Zoology",
+        "url":"Zoology.html"
+      },
+       "sub9":{
+        "name":"Organic Chemistry",
+        "url":"OrganicChemistry.html"
+      }
+      
     }
   }
 }
